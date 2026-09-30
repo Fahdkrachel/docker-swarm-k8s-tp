@@ -194,7 +194,7 @@ Le script déploie `webapp`, l'expose en `LoadBalancer`, le scale à 3 réplicas
 
 ## Auteur
 
-**[Votre nom]** — Filière II BDCC, UH2C / ENSET Mohammedia
+**KRACHEL FAHD** — Filière II BDCC,  ENSET Mohammedia
 Module : Ingénierie des Infrastructures Big Data et Cloud — Pr. Kamal EL GUEMMAT
 
 ## Licence
